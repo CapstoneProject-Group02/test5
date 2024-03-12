@@ -1,0 +1,32 @@
+{
+  "english": {
+    "Title": "Login Here",
+    "UsernameLabel": "NIC No",
+    "UsernamePlaceholder": "Enter your NIC Number",
+    "PasswordLabel": "Password",
+    "PasswordPlaceholder": "Enter your Password",
+    "LoginButton": "Login",
+    "NewMemberMessage": "Are you a new member",
+    "CreateAccountButton": "Create an Account"
+  },
+  "tamil": {
+    "Title": "உள்நுழை",
+    "UsernameLabel": "NIC எண்",
+    "UsernamePlaceholder": "உங்கள் NIC எண்ணை உள்ளிடவும்",
+    "PasswordLabel": "கடவுச்சொல்",
+    "PasswordPlaceholder": "உங்கள் கடவுச்சொல்லை உள்ளிடவும்",
+    "LoginButton": "உள்நுழைய",
+    "NewMemberMessage": "நீங்கள் புதிய உறுப்பினரா",
+    "CreateAccountButton": "ஒரு கணக்கை உருவாக்கவும்"
+  },
+  "sinhalese": {
+    "Title": "ඇතුල් වන්න",
+    "UsernameLabel": "ජා.හැ. අංකය",
+    "UsernamePlaceholder": "ඔබගේ ජා.හැ. අංකය ඇතුල් කරන්න",
+    "PasswordLabel": "මුරපදය",
+    "PasswordPlaceholder": "ඔබගේ මුරපදය ඇතුල් කරන්න",
+    "LoginButton": "ඇතුල් වන්න",
+    "NewMemberMessage": "ඔබ නව පරිශීලකයෙක්ද? ",
+    "CreateAccountButton": "ගිණුමක් සාදන්න"
+  }
+}

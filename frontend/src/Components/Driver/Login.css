@@ -1,0 +1,64 @@
+.bg {
+  background-color: aqua;
+}
+
+.loginForm {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: bisque;
+  width: 90%; /* Adjust width to 90% of the viewport width */
+
+  margin-top: 5rem; /* Adjust margin from top */
+}
+
+.loginForm form {
+  text-align: center;
+}
+
+.loginForm h4 {
+  margin-bottom: 20px;
+}
+
+.loginForm label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.loginForm .textInput {
+  width: 92%;
+  padding: 12px;
+  margin-bottom: 15px;
+}
+
+.loginForm .button,
+.loginForm .button1 {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 1rem; /* Adjust margin from top */
+}
+
+.loginForm .button:hover,
+.loginForm .button1:hover {
+  background-color: #0056b3;
+}
+
+.loginForm .errorMessage {
+  color: red;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Media queries for responsiveness */
+@media only screen and (min-width: 768px) {
+  .loginForm {
+    width: 400px;
+  }
+}

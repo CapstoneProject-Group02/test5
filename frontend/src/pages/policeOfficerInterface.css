@@ -1,0 +1,59 @@
+
+.policeOfficerInterface {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: bisque;
+    height: 690px;
+  }
+  
+  .policeOfficerInterface label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .policeOfficerInterface input {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .policeOfficerInterface button {
+    width: 99%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+
+  }
+  .policeOfficerInterface button1 {
+    width: 99%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 100px;
+   
+
+  }
+
+  
+  .policeOfficerInterface button:hover {
+    background-color: #0056b3;
+  }
+  
+  .policeOfficerInterface p {
+    margin-top: 20px;
+  }
+  
+  .policeOfficerInterface .successMessage {
+    color: green;
+  }
+  

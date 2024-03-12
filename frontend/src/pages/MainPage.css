@@ -1,0 +1,36 @@
+.bg{
+    background-color: aqua;
+}
+.mainpage {
+  background-color: bisque;
+  width: 400px;
+  height: 690px;
+  margin:  auto;
+}
+.head {
+  background-color: rgb(255, 184, 0, 0.6);
+  width: 400px;
+  height: 100px;
+  text-align: center;
+
+}
+.mainpage h1 {
+  font-size: xx-large;
+}
+
+.body {
+  background-color: rgb(255, 184, 0, 0.6);
+  padding: 20px;
+  margin: 20px;
+  height: 510px;
+  position: relative;
+  top: 0rem;
+}
+.user {
+  text-align: center;
+}
+.image {
+  position: relative;
+  left: 2.5rem;
+  width: 250px;
+}
